@@ -1,6 +1,13 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+node_modules
+dist
+web/dist
+data
+.env
+*.log
+.DS_Store
+.venv
+__pycache__
+.pytest_cache
+*.pyc
+*.egg-info
+.mypy_cache
